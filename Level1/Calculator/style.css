@@ -1,0 +1,38 @@
+.btn{
+    height: 30px;
+    width: 30px;
+    margin-top: 1px;
+    background-color: aquamarine;
+    border-radius: 50%;
+}
+.equal{
+    width: 64px;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    height: 250px;
+    width: 150px;
+    border: 1.5px solid black;
+    flex-wrap:wrap;
+    border-radius: 10px;
+    background-color: black;
+  
+    
+}
+.inputbox{
+    margin-top: 8px;
+    width: 126px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background-color:#90ebf0 ;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.opretor{
+    color: green;
+}
